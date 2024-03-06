@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">Software Purpose:</h2>
+<h2 align="left">Software Purpose: </h2>
 
 ###
 
